@@ -25,6 +25,3 @@ To explore the dashboard:
 3. Open `Netflix_Movies_TV_Shows_Dashboard.pbix` with Power BI.
 4. Interact with the dashboard.
 
-## Contact
-
-For inquiries and collaborations, feel free to reach out to sdeminhaj@gmail.com.
